@@ -1,0 +1,10 @@
+
+@media (min-width: 992px){
+    .rrss{
+        position: fixed;
+        top: 182px;
+        right: 0px;
+        text-align: right;
+        padding: 10px;
+    }
+}
